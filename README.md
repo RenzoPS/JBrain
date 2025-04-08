@@ -10,7 +10,7 @@ El trabajo incluyó:
 - Crear el script .sql con la estructura de la base de datos.
 - Asegurar la integridad referencial mediante claves foráneas.
 
-Podés encontrar el archivo de la base de datos en este mismo repositorio: base_datos.sql.
+Podés encontrar los archivo de la base de datos en este mismo repositorio.
 
 ---
 
